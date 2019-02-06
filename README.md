@@ -8,11 +8,13 @@ My preference is Yarn. Consequently my examples are also in yarn. But you can us
 Install all Dependencies (Yarn or NPM). 
 - `yarn install`
 
-Start Express Server
+Start Express Server.
 - `yarn dev:server`
 
 Start JSON server to serve dummy data. This can be replaced with a real API service and database.
 - `yarn json:server`
+
+Open GraphiQL at `http://localhost:4000` in your browser to perform queries and mutations.
 
 ### Contributing
 🥤 Feel free to fork this repo and open a pull request.
