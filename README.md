@@ -5,16 +5,16 @@
 Check out GraphQL's official documentation [here](https://graphql.github.io/)!
 
 ### Getting Started:
-My preference is Yarn. Consequently my examples are also in yarn. But you can use NPM.
+My preference for package management is Yarn. Consequently my examples are also in yarn. But you can use NPM.
 
 Install all Dependencies (Yarn or NPM). 
-- `yarn install`
+- `yarn install` or `npm install`
 
 Start Express Server.
-- `yarn dev:server`
+- `yarn dev:server` or `npm run dev:server`
 
 Start JSON server to serve dummy data. This can be replaced with a real API service and database.
-- `yarn json:server`
+- `yarn json:server` or `npm run json:server`
 
 Open GraphiQL at `http://localhost:4000` in your browser to perform queries and mutations.
 
