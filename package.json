@@ -1,7 +1,7 @@
 {
   "name": "node-graphql",
   "version": "1.0.0",
-  "description": "Simple GraphQL tutorial",
+  "description": "Simple GraphQL data querying and mutation with Node.js & Express",
   "main": "server.js",
   "scripts": {
     "dev:server": "nodemon ./server/server.js",
